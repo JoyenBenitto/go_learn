@@ -12,6 +12,12 @@ package main
 
 import "fmt"
 
+/*
+	It tells give the package (in our case main) all the functionality that is contained within the other package called as the fmt
+	- FMT is the shortened form of the word format
+	- FMT is used to print out a lot of different information specifically to the terminal
+*/
+
 func main() {
 	fmt.Println("Hello World")
 }
